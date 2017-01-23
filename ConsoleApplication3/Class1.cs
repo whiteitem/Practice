@@ -12,6 +12,7 @@ namespace ConsoleApplication3
     {
 		static void Main8(string[] args) 
         {
+			int k = 2;
          /*   int count = 0;
             bool ok = true;
             XmlDocument xmlDoc = new XmlDocument();

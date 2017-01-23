@@ -3,3 +3,5 @@ c:\users\pan\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleAp
 c:\users\pan\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
 c:\users\pan\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
 c:\users\pan\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Pan\Documents\Visual Studio 2012\Projects\test3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Pan\Documents\Visual Studio 2012\Projects\test3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
